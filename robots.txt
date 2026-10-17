@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-6fa9a72055.ynsnj.cn/sitemap.xml
